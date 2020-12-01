@@ -4,3 +4,4 @@ rm -rf DCIM
 rm -rf Download
 rm -rf Telegram
 rm -rf WhatsApp
+rm -rf Facebook
